@@ -1,0 +1,7 @@
+.page--container {
+  width: fit-content;
+  height: 400px;
+  background-color: #f5f8ff;
+  border-radius: 30px;
+  margin: 150px auto;
+}

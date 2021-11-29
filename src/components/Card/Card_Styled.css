@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;700&family=Merriweather:wght@700&display=swap");
+
+.card--font-merri {
+  font-family: "Merriweather", serif;
+  font-size: 18px;
+}
+
+.card--container {
+  font-family: "IBM Plex Sans", sans-serif;
+  width: 220px;
+}
+
+.card--font-small {
+  font-size: 12px;
+}
+
+.card--font-bold {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.card--margin-0 {
+  margin-bottom: 0px;
+}
+
+.card--btn {
+  color: black;
+  padding: 5px;
+  border: none;
+}
